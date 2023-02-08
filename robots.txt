@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://howdyev.github.io/sitemap-index.xml
+Host: https://howdyev.github.io
